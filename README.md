@@ -1,3 +1,7 @@
-# Github and hit conflict
-Name: Istiaque Hossain
-Access ID: hi7498
+
+# Github and git conflict
+
+# Github and git
+
+# Istiaque Hossain
+**hi7498**
